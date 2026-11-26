@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Dec 06 16:13:10 CST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-019a-f2b8-d469-00000f2394e8 
+on database directory D:\桌面\shopping-sys\shopping_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@65b54208 
+Loaded from file:/D:/%e6%a1%8c%e9%9d%a2/shopping-sys/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=21.0.9+7-LTS-338
+user.dir=D:\桌面\shopping-sys
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
